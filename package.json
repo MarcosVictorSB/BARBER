@@ -9,16 +9,35 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.16.1",
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/bottom-tabs": "^6.2.0",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "@react-navigation/stack": "^6.1.1",
     "expo": "~44.0.2",
+    "expo-location": "~14.0.1",
     "expo-splash-screen": "~0.14.1",
     "expo-status-bar": "~1.2.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
-    "react-native-web": "0.17.1"
+    "react-native-gesture-handler": "^2.3.0",
+    "react-native-permissions": "^3.3.0",
+    "react-native-reanimated": "^2.4.1",
+    "react-native-safe-area-context": "^3.4.1",
+    "react-native-screens": "~3.10.1",
+    "react-native-svg": "^12.3.0",
+    "react-native-svg-transformer": "^1.0.0",
+    "react-native-swiper": "^1.6.0",
+    "react-native-web": "0.17.1",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@types/styled-components": "^5.1.24"
   },
   "private": true
 }
